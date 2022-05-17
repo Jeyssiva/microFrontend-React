@@ -37,4 +37,4 @@
     # we can able to see all screens in maincontainer (3001)
 
 # Screenshot
-    <img src="relative/path/in/repository/to/mainScreen1.png" width="128"/>
+    <img src="./mainScreen1.png" width="128"/>

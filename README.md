@@ -4,14 +4,14 @@
 # Accounts - accounts - port: 3004
 
 # Register Employees
-   # Implemented the signup process 
-   # Fields
-   # Name
-   # Age
-   # Phone
-   # Address
-   # EmailId
-   # Password
+      # Implemented the signup process 
+      # Fields
+      # Name
+      # Age
+      # Phone
+      # Address
+      # EmailId
+      # Password
 # Employee List
     # Displayed the employee list
 # Accounts

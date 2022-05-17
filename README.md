@@ -35,3 +35,6 @@
     # another terminal
     # npm install
     # we can able to see all screens in maincontainer (3001)
+
+# Screenshot
+    ![alt text](https://github.com/Jeyssiva/microFrontend-React/blob/main/MainScreen.PNG?raw=true)

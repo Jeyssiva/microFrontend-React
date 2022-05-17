@@ -37,5 +37,5 @@
     # we can able to see all screens in maincontainer (3001)
 
 # Screenshot
-    # ![Screenshot](mainScreen1.png)
+    ![Screenshot](mainScreen1.png)
 

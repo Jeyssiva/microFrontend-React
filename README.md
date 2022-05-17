@@ -37,4 +37,5 @@
     # we can able to see all screens in maincontainer (3001)
 
 # Screenshot
-    # ![alt text](https://github.com/Jeyssiva/microFrontend-React/blob/main/mainScreen1.png?raw=true)
+    # ![Screenshot](mainScreen1.png)
+
